@@ -1,18 +1,24 @@
 {
-    "sites": [
-        { "name": "森林资源|AV", "type": 1, "api": "https://slapibf.com/api.php/provide/vod/" },
-        { "name": "探探资源|AV", "type": 1, "api": "https://apittzy.com/api.php/provide/vod/" },
-        { "name": "奥斯卡资源|AV", "type": 1, "api": "https://aosikazy.com/api.php/provide/vod/" },
-        { "name": "老鸭资源|AV", "type": 1, "api": "https://api.apilyzy.com/api.php/provide/vod/" },
-        { "name": "91麻豆|AV", "type": 1, "api": "https://91md.me/api.php/provide/vod/" },
-        { "name": "易看资源|AV", "type": 1, "api": "https://api.yikanapi.com/api.php/provide/vod/" },
-        { "name": "番号资源|AV", "type": 1, "api": "http://fhapi9.com/api.php/provide/vod/" },
-        { "name": "鲨鱼资源|AV", "type": 1, "api": "https://shayuapi.com/api.php/provide/vod/" },
-        { "name": "AIvin|AV", "type": 1, "api": "http://lbapiby.com/api.php/provide/vod/at/json" },
-        { "name": "黄瓜资源|AV", "type": 1, "api": "https://www.zy018.com/api.php/provide/vod/" },
-        { "name": "玉兔资源|AV", "type": 1, "api": "https://apiyutu.com/api.php/provide/vod/" },
-        { "name": "辣椒资源|AV", "type": 1, "api": "https://apilj.com/api.php/provide/vod/" },
-        { "name": "奶香香|AV", "type": 1, "api": "https://Naixxzy.com/api.php/provide/vod/" },
-        { "name": "精品资源|AV", "type": 1, "api": "https://www.jingpinx.com/api.php/provide/vod/" },
-        { "name": "草榴资源|AV", "type": 1, "api": "https://www.caoliuzyw.com/api.php/prodao/vod/" },
-        { "name": "老色逼资源|AV", "type": 1, "api": "https://apilsbzy1.com/api.php/provide/vod/" }
+  "id": "wayne_cms_sub_002",
+  "name": "AV资源订阅",
+  "description": "CMS成人内容接口订阅集合",
+  "updateTime": "2026-04-12T00:00:00.000Z",
+  "websites": [
+    { "id": "senlin", "name": "森林资源|AV", "api": "https://slapibf.com/api.php/provide/vod/", "description": "森林资源CMS接口" },
+    { "id": "tantan", "name": "探探资源|AV", "api": "https://apittzy.com/api.php/provide/vod/", "description": "探探资源CMS接口" },
+    { "id": "aosika", "name": "奥斯卡资源|AV", "api": "https://aosikazy.com/api.php/provide/vod/", "description": "奥斯卡资源CMS接口" },
+    { "id": "laoya", "name": "老鸭资源|AV", "api": "https://api.apilyzy.com/api.php/provide/vod/", "description": "老鸭资源CMS接口" },
+    { "id": "91madou", "name": "91麻豆|AV", "api": "https://91md.me/api.php/provide/vod/", "description": "91麻豆资源CMS接口" },
+    { "id": "yikan", "name": "易看资源|AV", "api": "https://api.yikanapi.com/api.php/provide/vod/", "description": "易看资源CMS接口" },
+    { "id": "fanhao", "name": "番号资源|AV", "api": "http://fhapi9.com/api.php/provide/vod/", "description": "番号资源CMS接口" },
+    { "id": "shayu", "name": "鲨鱼资源|AV", "api": "https://shayuapi.com/api.php/provide/vod/", "description": "鲨鱼资源CMS接口" },
+    { "id": "aivin", "name": "AIvin|AV", "api": "http://lbapiby.com/api.php/provide/vod/at/json", "description": "AIvin资源CMS接口" },
+    { "id": "huanggua", "name": "黄瓜资源|AV", "api": "https://www.zy018.com/api.php/provide/vod/", "description": "黄瓜资源CMS接口" },
+    { "id": "yutu", "name": "玉兔资源|AV", "api": "https://apiyutu.com/api.php/provide/vod/", "description": "玉兔资源CMS接口" },
+    { "id": "lajiao", "name": "辣椒资源|AV", "api": "https://apilj.com/api.php/provide/vod/", "description": "辣椒资源CMS接口" },
+    { "id": "naixiangxiang", "name": "奶香香|AV", "api": "https://Naixxzy.com/api.php/provide/vod/", "description": "奶香香资源CMS接口" },
+    { "id": "jingpin", "name": "精品资源|AV", "api": "https://www.jingpinx.com/api.php/provide/vod/", "description": "精品资源CMS接口" },
+    { "id": "caoliu", "name": "草榴资源|AV", "api": "https://www.caoliuzyw.com/api.php/prodao/vod/", "description": "草榴资源CMS接口" },
+    { "id": "lsb", "name": "老色逼资源|AV", "api": "https://apilsbzy1.com/api.php/provide/vod/", "description": "老色逼资源CMS接口" }
+  ]
+}

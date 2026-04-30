@@ -19,6 +19,12 @@
     { "id": "naixiangxiang", "name": "奶香香|AV", "api": "https://Naixxzy.com/api.php/provide/vod/", "description": "奶香香资源CMS接口" },
     { "id": "jingpin", "name": "精品资源|AV", "api": "https://www.jingpinx.com/api.php/provide/vod/", "description": "精品资源CMS接口" },
     { "id": "caoliu", "name": "草榴资源|AV", "api": "https://www.caoliuzyw.com/api.php/prodao/vod/", "description": "草榴资源CMS接口" },
-    { "id": "lsb", "name": "老色逼资源|AV", "api": "https://apilsbzy1.com/api.php/provide/vod/", "description": "老色逼资源CMS接口" }
+    { "id": "lsb", "name": "老色逼资源|AV", "api": "https://apilsbzy1.com/api.php/provide/vod/", "description": "老色逼资源CMS接口" },
+    {
+      "name": "[兔]电影人生\uD83C\uDFAC",
+      "type": 3,
+      "api": "csp_dyrs_tu",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/dyrs_tu.js"
+    }
   ]
 }
